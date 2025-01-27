@@ -16,16 +16,16 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 
 ## 🧠 KPIs Principals
 
-I) Sémantique ? (Niveau 1)
-- Quelles sont les principales catégories d'emploi dans la data ?
-- Où se trouve cette catégorie dans le monde ?
-
-II) Entreprise & Contrat (LVL1)
-- Quels contrats sont les plus représentés ?
-- Qu'en est-il de la taille de l'entreprise ?
-
-III) Salaire et catégorie ? (Niveau 1)
-- Quels sont les métiers les mieux payés ?
+  I) Sémantique ? (Niveau 1)
+  - Quelles sont les principales catégories d'emploi dans la data ?
+  - Où se trouve cette catégorie dans le monde ?
+  
+  II) Entreprise & Contrat (LVL1)
+  - Quels contrats sont les plus représentés ?
+  - Qu'en est-il de la taille de l'entreprise ?
+  
+  III) Salaire et catégorie ? (Niveau 1)
+  - Quels sont les métiers les mieux payés ?
 
 ## 📊 Dashboards : 
 
