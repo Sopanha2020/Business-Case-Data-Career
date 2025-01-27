@@ -31,5 +31,4 @@ III) Salaire et catégorie ? (Niveau 1)
 
 ![Image](https://github.com/user-attachments/assets/07345e2c-25b9-490a-8386-c1326db3079e)
 
-
-
+![Image](https://github.com/user-attachments/assets/3284accd-4c7e-420e-8d85-9117cb266d73)
