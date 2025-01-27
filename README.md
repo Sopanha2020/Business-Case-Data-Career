@@ -12,7 +12,6 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 ## 🧰 Outils Principaux : 
 
 - Power BI
-- Google Colab
 
 ## 🧠 KPIs Principals
 
