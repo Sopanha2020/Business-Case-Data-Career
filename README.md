@@ -1,11 +1,39 @@
-<h1 align="center">Hi 👋, I'm Sopanha</h1>
-<h3 align="center">A passionate Data and AI Engineer from France</h3>
+# 🚗 Business-Case-Data-Career
+Réalisation d'un projet de notre groupe AZAS dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** à Lille.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sopanha-sao-7648a6a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sopanha-sao-7648a6a3/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sopanhasao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sopanhasao" height="30" width="40" /></a>
-</p>
+## 🎯 Objectifs du Business Case:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+  ✅ Effectuer une analyse basée sur les données
+  ✅ Présenter des visualisations pertinentes
+  ✅ Proposer des conseils pour aider à la prise de décision
+
+## 🧰 Outils Principaux : 
+
+**Schéma de notre réflexion pour la réalisation de notre livrable client :**
+<img width="940" alt="diagram" src="https://github.com/user-attachments/assets/952d4fd5-7f3a-4487-9ae9-966747051b3e" />
+
+Par exemple: mysql => CSV => Power BI
+
+Requêtes de chacun sur MySQL → export des requêtes en local (CSV).  
+Exploitation sur le serveur de l’entreprise si possible → Représentation des requêtes sur Power BI.	
+
+Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** via _PowerBI_ et présenté lors d'un entretien. 
+
+## ⌛ Temps Imparti : 
+3 semaines
+
+## 📊 Dashboards : 
+
+![sales](https://github.com/user-attachments/assets/5fa5ebd9-fc05-440d-b7ef-ecbb5110bce5)
+
+![fin1](https://github.com/user-attachments/assets/7a11fa42-e6bd-4baf-a0e4-e1d4bac99da0)
+
+![fin2](https://github.com/user-attachments/assets/665d9d88-edd0-4860-a6cc-02539d395dc2)
+
+![log](https://github.com/user-attachments/assets/3820514f-9069-4335-948b-86d2f629d190)
+
+![hr](https://github.com/user-attachments/assets/f82900b5-f141-4a1b-a62a-4f6bcb687676)
+
+
+## ✨ Présentation au format PDF :
+[présentation_toys_and_models.pdf](https://github.com/Sopanha2020/Projet-1-AZAS-SQL-BI-Toys-and-Models/blob/main/Presentation/Toys_and_Models%20Presentation.pdf)
