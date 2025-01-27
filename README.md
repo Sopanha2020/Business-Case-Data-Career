@@ -1,5 +1,6 @@
-# 🚗 Business-Case-Data-Career
-Réalisation d'un projet de notre groupe AZAS dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** à Lille.
+📊📈📉📊 Business-Case-Data-Career
+C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
+Dans nos futurs métiers, nous avons un sujet business, à vous d'essayer de le résoudre au mieux. Nous vous faisons confiance : nous allong faire une très bonne analyse.
 
 ## 🎯 Objectifs du Business Case:
 
