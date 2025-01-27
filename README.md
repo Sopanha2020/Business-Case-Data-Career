@@ -14,6 +14,33 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 - Power BI
 - Google Colab
 
+##   KPIs Principals
+
+I) Sémantique ? (Niveau 1)
+- Quelles sont les principales catégories d'emploi dans la data ?
+- Où se trouve cette catégorie dans le monde ?
+
+II) Entreprise & Contrat (LVL1)
+- Quels contrats sont les plus représentés ?
+- Qu'en est-il de la taille de l'entreprise ?
+
+III) Salaire et catégorie ? (Niveau 1)
+- Quels sont les métiers les mieux payés ?
+
+I) Sémantique ? (Niveau 1)
+     Créer une analyse sémantique avec un nuage de mots ou un histogramme de mots
+     Identifiez les mots-clés à classer
+     Créer une nouvelle colonne job_cluster
+     Créez une carte pour identifier les catégories les plus importantes.
+     Qu'observez-vous ?
+II) Entreprise & Contrat ? (Niveau 1)
+     Créez une carte avec les différents clusters et caractéristiques du contrat (expérience de travail, niveau d'expérience, etc.).
+     Qu'observez-vous ?
+
+III) Salaire et catégorie ? (Niveau 1)
+     Comparez le salaire et la localisation de la catégorie.
+     Qu'observez-vous
+
 ## 📊 Dashboards : 
 
 ![sales](https://github.com/user-attachments/assets/5fa5ebd9-fc05-440d-b7ef-ecbb5110bce5)
