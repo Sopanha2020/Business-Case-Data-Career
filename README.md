@@ -3,8 +3,8 @@ Réalisation d'un projet de notre groupe AZAS dans le cadre de la formation de _
 
 ## 🎯 Objectifs du Business Case:
 
-  ✅ Effectuer une analyse basée sur les données
-  ✅ Présenter des visualisations pertinentes
+  ✅ Effectuer une analyse basée sur les données <br>
+  ✅ Présenter des visualisations pertinentes <br>
   ✅ Proposer des conseils pour aider à la prise de décision
 
 ## 🧰 Outils Principaux : 
