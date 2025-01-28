@@ -9,11 +9,11 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
   ✅ Présenter des visualisations pertinentes <br>
   ✅ Proposer des conseils pour aider à la prise de décision
 
-## 🧰 Outils Principaux : 
+## 🧰 Outils Principaux: 
 
 - Power BI
 
-## 🧠 KPIs Principals
+## 🧠 KPIs Principaux:
 
   I) Sémantique ? (Niveau 1)
   - Quelles sont les principales catégories d'emploi dans la data ?
@@ -26,7 +26,7 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
   III) Salaire et catégorie ? (Niveau 1)
   - Quels sont les métiers les mieux payés ?
 
-## 📊 Dashboards : 
+## 📊 Dashboards: 
 
 ![Image](https://github.com/user-attachments/assets/07345e2c-25b9-490a-8386-c1326db3079e)
 
